@@ -3,7 +3,7 @@ Email: teintu.c@gmail.com - Phone: (+44) 07510909682<br><br>
 ## Backend Developer / DevOps
 
 ------
-### Experience {#experience}
+### Experience
 __July 2014__ <br>
 __Convertr Media Ltd, London UK__
 : __*Developer, DevOps*__
@@ -52,8 +52,8 @@ __Business & Decision, Paris 17e__
 Electronic France websites (internal PHP CMS)
 
 <div style="page-break-after: always;"></div>
-
-### Technical {#technical}
+------
+### Technical
 <br>
 __OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
 __Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (working tool), php(5 / 7)
@@ -66,14 +66,14 @@ __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS 
 
 ------
 
-### Languages {#languages}
+### Languages
 <br>
 __French__ : Native language<br>
 __English__ : Intermediate<br>
 
 -------
 
-### Education {#Education}
+### Education
 <br>
   __2005 - 2010__ <br>
 __Information system expert diploma - EPITECH__,<br>Ecole
@@ -88,12 +88,3 @@ android, Iphone)<br><br>
   __2005__ <br>
   Bac STI Génie Electrotechnique – Lycée Technique Privé<br>
 Saint-Nicolas (Highschool diploma)
-
-
-------
-
-### Footer {#footer}
-
-Charles Teinturier -- [teintu.c@gmail.com](teintu.c@gmail.com) -- (+44) 07510909682
-
-------
