@@ -13,7 +13,7 @@ __Convertr Media Ltd, London UK__
 - Use of different kind of Api (SOAP, Rest, Xmlrpc)
 - Php 5.5 / Php 7
 - Use of Amazon Web Service services
-- Design of the new version server infrastructure (High aviability)
+- Design of the new version server infrastructure (High availability)
 - Maintenance/re-shaping of server infrastructure (old product version)
 - Setting up developper environement using Vagrant/Ansible
 - Setting up dev tools (Gitlab/Bitbucket, Jenkins)
