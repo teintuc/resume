@@ -28,7 +28,7 @@ __Bluekiwi, Paris 11e__
 - Maintenance et développement d'un réseau social pour enterprise
 - PHP 5.4
 - Application de High avaibility/performance 
-- Traitement de donnée asynchron
+- Traitement de donnée asynchrone
 - Unit test / Test Driven Development
 - Scrum / Agile
 - Mvc privée (bas&eacute; sur codeIgniter)
