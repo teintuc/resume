@@ -1,5 +1,5 @@
 # Charles Teinturier
-Email: teintu.c@gmail.com - Phone: (+44) 07510909682<br><br>
+Email: teintu.c@gmail.com
 ## Backend Developer / DevOps
 
 ------
@@ -20,10 +20,10 @@ __Convertr Media Ltd, London UK__
 - Asynchronous data processing
 - Unit testing / Test Driven Development
 
-__April 2013 - July 2014__ 
+__April 2013 - July 2014__
 __Bluekiwi, Paris 11e__
 : __*R&D Developer*__
-  
+
 - Part of core and R&D team.
 - Maintenance and developing a company social network
 - PHP 5.4
@@ -42,7 +42,7 @@ performance)
 __2010 - March 2013__ <br>
 __Business & Decision, Paris 17e__
 : __*Developer*__
-  
+
 - Development of the CMS new version used by the company
 (using Zend Framework core)<br>
 - Reworking and maintenance of BNPParibas websites
