@@ -30,7 +30,7 @@ __Convertr Media Ltd, London UK__
 - Asynchronous data processing
 - Unit testing / Test Driven Development
 
-__April 2013 - July 2014__
+__April 2013 - July 2014__ <br>
 __Bluekiwi, Paris 11e__
 : __*R&D Developer*__
 
