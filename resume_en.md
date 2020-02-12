@@ -4,8 +4,9 @@ Email: teintu.c@gmail.com
 
 ------
 ### Experience
-__September 2016__
-__Asmodee Digital, Paris 9e__: __*DevOps*__
+__September 2016__ <br>
+__Asmodee Digital, Paris 9e__
+: __*DevOps*__
 
 - Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
 - Use of devops tools (Terraform, Puppet, Bash, Ruby, ...)
@@ -13,8 +14,9 @@ __Asmodee Digital, Paris 9e__: __*DevOps*__
 - Administation/Maintenance of Office network (Installation, configuration, internet access, backup)
 - In charge of Cyber security
 
-__July 2014 - July 2016__
-__Convertr Media Ltd, London UK__: __*Developer, DevOps*__
+__July 2014 - July 2016__ <br>
+__Convertr Media Ltd, London UK__
+: __*Developer, DevOps*__
 
 - Company product refactoring using Symfony2
 - Maintenance of the previous product version
@@ -29,7 +31,8 @@ __Convertr Media Ltd, London UK__: __*Developer, DevOps*__
 - Unit testing / Test Driven Development
 
 __April 2013 - July 2014__
-__Bluekiwi, Paris 11e__: __*R&D Developer*__
+__Bluekiwi, Paris 11e__
+: __*R&D Developer*__
 
 - Part of core and R&D team.
 - Maintenance and developing a company social network
@@ -45,11 +48,13 @@ __Bluekiwi, Paris 11e__: __*R&D Developer*__
 - Development of the new pubication module (higher
 performance)
 
-__2010 - March 2013__
-__Business & Decision, Paris 17e__: __*Developer*__
+
+__2010 - March 2013__ <br>
+__Business & Decision, Paris 17e__
+: __*Developer*__
 
 - Development of the CMS new version used by the company
-(using Zend Framework core)
+(using Zend Framework core)<br>
 - Reworking and maintenance of BNPParibas websites
 (internal PHP CMS)
 - Reworking of routard.com website (internal PHP CMS)
@@ -59,39 +64,42 @@ Electronic France websites (internal PHP CMS)
 ------
 
 ### Technical
+<br>
 
-__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)
+__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
 __Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (working tool), php(5 / 7)
-(object oriented - working tool), Python (personal use), GoLang(beginner, personal use)
+(object oriented - working tool), Python (personal use), GoLang(beginner, personal use)<br>
 __Databases:__&nbsp;&nbsp;MySQL, Oracle, Postgre (working tool)<br>
-__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (working tool), vagrant, ansible, ssh, jenkins, apache
+__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (working tool), vagrant, ansible, ssh, jenkins, apache<br>
 __Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation and
-configuration (personal use)
+configuration (personal use)<br>
 __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (working tool), Google Cloud(beginner)
 
 ------
 
 ### Languages
+<br>
 
-__French__: Native language
-__English__ : Intermediate
+__French__: Native language<br>
+__English__ : Intermediate<br>
 
 -------
 
 ### Education
+<br>
 
-__2005 - 2010__
+__2005 - 2010__ <br>
 __Information system expert diploma - EPITECH__,<br>Ecole
 Pour l’Informatique et les Nouvelles Technologies (Le
-Kremlin Bicêtre, 94)
-- Web server using C++
+Kremlin Bicêtre, 94)<br>
+- Web server using C++<br>
 - Mobile application development / server (Windows mobile,
-android, Iphone)
+android, Iphone)<br><br>
 
- __2009__
+ __2009__ <br>
  __California State University Long Beach__ - 2 semesters :<br>
 - Network and information system<br><br>
 
-__2005__
- Bac STI Génie Electrotechnique – Lycée Technique Privé<br>
+__2005__ <br>
+  Bac STI Génie Electrotechnique – Lycée Technique Privé<br>
 Saint-Nicolas (Highschool diploma)
