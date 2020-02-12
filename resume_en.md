@@ -94,8 +94,8 @@ Kremlin Bicêtre, 94)<br>
 android, Iphone)<br><br>
 
  __2009__ <br>
- __California State University Long Beach__ - 2 semesters :<br>
-- Network and information system<br><br>
+ __California State University Long Beach__ - 2 semesters :
+- Network and information system<br>
 
 __2005__ <br>
   Bac STI Génie Electrotechnique – Lycée Technique Privé<br>
