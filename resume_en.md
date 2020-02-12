@@ -68,8 +68,8 @@ Electronic France websites (internal PHP CMS)
 __OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
 __Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (working tool), php(5 / 7)
 (object oriented - working tool), Python (personal use), GoLang(Intermediary, working tool)<br>
-__Databases:__&nbsp;&nbsp;MySQL, Oracle, Postgre (working tool)<br>
-__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (working tool), vagrant, ansible, ssh, jenkins, apache<br>
+__Databases:__&nbsp;&nbsp;MySQL, Oracle, Postgre<br>
+__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (working tool), vagrant, ansible, ssh, jenkins, apache, nginx<br>
 __Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation and
 configuration (personal use)<br>
 __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (working tool), Google Cloud(beginner)
