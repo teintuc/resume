@@ -4,7 +4,17 @@ Email: teintu.c@gmail.com
 
 ------
 ### Experience
-__July 2014__ <br>
+__September 2016__ <br>
+__Asmodee Digital, PAris 9e__
+: __*DevOps*__
+
+- Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
+- Use of devops tools (Terraform, Puppet, Bash, Ruby, ...)
+- Development of internal tools (GO)
+- Administation/Maintenance of Office network (Installation, configuration, internet access, backup)
+- In charge of Cyber security
+
+__July 2014 - July 2016__ <br>
 __Convertr Media Ltd, London UK__
 : __*Developer, DevOps*__
 
