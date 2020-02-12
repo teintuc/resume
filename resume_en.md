@@ -91,7 +91,7 @@ Pour l’Informatique et les Nouvelles Technologies (Le
 Kremlin Bicêtre, 94)<br>
 - Web server using C++<br>
 - Mobile application development / server (Windows mobile,
-android, Iphone)<br><br>
+android, Iphone)<br>
 
  __2009__ <br>
  __California State University Long Beach__ - 2 semesters :
