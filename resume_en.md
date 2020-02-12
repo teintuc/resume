@@ -61,8 +61,6 @@ __Business & Decision, Paris 17e__
 - Maintenance/developement of B2C/B2B Samsung
 Electronic France websites (internal PHP CMS)
 
-<div style="page-break-after: always;"></div>
-------
 ### Technical
 <br>
 __OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
