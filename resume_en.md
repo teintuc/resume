@@ -5,7 +5,7 @@ Email: teintu.c@gmail.com
 ------
 ### Experience
 __September 2016__ <br>
-__Asmodee Digital, PAris 9e__
+__Asmodee Digital, Paris 9e__
 : __*DevOps*__
 
 - Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
