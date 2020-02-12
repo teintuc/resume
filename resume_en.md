@@ -78,7 +78,6 @@ __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS 
 ------
 
 ### Languages
-<br>
 
 __French__: Native language<br>
 __English__ : Intermediate<br>
@@ -86,7 +85,6 @@ __English__ : Intermediate<br>
 -------
 
 ### Education
-<br>
 
 __2005 - 2010__ <br>
 __Information system expert diploma - EPITECH__,<br>Ecole
