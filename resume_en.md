@@ -64,7 +64,6 @@ Electronic France websites (internal PHP CMS)
 ------
 
 ### Technical
-<br>
 
 __OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
 __Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (working tool), php(5 / 7)
