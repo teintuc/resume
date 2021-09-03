@@ -1,6 +1,6 @@
 # Charles Teinturier
 Email: teintu.c@gmail.com
-## Backend Developer / DevOps
+## DevOps
 
 ------
 ### Experience
