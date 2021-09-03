@@ -10,10 +10,10 @@ __Asmodee Digital, Paris 9e__
 
 - Migration out of On Premise servers to the cloud
 - Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
+- Creation of: automated backups, monitoring, os updates
 - Use of devops tools (Terraform, Puppet, Bash, ...)
 - Development of internal tools (Golang/Bash)
-- Administation/Maintenance of Office network (Installation, configuration, internet access, backup)
-- In charge of Cyber security
+- Administation/Maintenance of Office Network (Installation, configuration, internet access, backup)
 
 __July 2014 - July 2016__ <br>
 __Convertr Media Ltd, London UK__
@@ -48,19 +48,6 @@ __Bluekiwi, Paris 11e__
 - Development of an imap reading class
 - Development of the new pubication module (higher
 performance)
-
-
-__2010 - March 2013__ <br>
-__Business & Decision, Paris 17e__
-: __*Developer*__
-
-- Development of the CMS new version used by the company
-(using Zend Framework core)<br>
-- Reworking and maintenance of BNPParibas websites
-(internal PHP CMS)
-- Reworking of routard.com website (internal PHP CMS)
-- Maintenance/developement of B2C/B2B Samsung
-Electronic France websites (internal PHP CMS)
 
 ------
 
