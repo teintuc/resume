@@ -9,11 +9,12 @@ __Asmodee Digital, Paris 9e__
 : __*DevOps*__
 
 - Migration out of On Premise servers to the cloud
-- Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
+- Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, Hight Avaibility)
 - Creation of: automated backups, monitoring, os updates
 - Use of devops tools (Terraform, Puppet, Bash, ...)
 - Development of internal tools (Golang/Bash)
 - Administation/Maintenance of Office Network (Installation, configuration, internet access, backup)
+- Management of the Jenkins instances
 
 __July 2014 - July 2016__ <br>
 __Convertr Media Ltd, London UK__
@@ -53,10 +54,10 @@ performance)
 
 ### Technical
 
-__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux, fcos), Windows (XP, Seven)<br>
+__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux, fcos), Windows (10)<br>
 __Langages:__&nbsp;&nbsp;&nbsp;GoLang(Intermediary, working tool), Python (personal use)<br>
 __Databases:__&nbsp;&nbsp;MySQL, Postgre<br>
-__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terraform, Puppet, docker, Kubernetes, Git, Nginx, Ansible (personal use)<br>
+__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terraform, Puppet, Docker, Kubernetes, Git, Nginx, Php Fpm, Ansible (old use)<br>
 __Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation and configuration (personal use)<br>
 __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (working tool)
 
