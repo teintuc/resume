@@ -8,9 +8,10 @@ __September 2016__ <br>
 __Asmodee Digital, Paris 9e__
 : __*DevOps*__
 
+- Migration out of On Premise servers to the cloud
 - Development of the Asmodee.net infrastructure (Aws, Kubernetes, Docker, ...)
-- Use of devops tools (Terraform, Puppet, Bash, Ruby, ...)
-- Development of internal tools (GO)
+- Use of devops tools (Terraform, Puppet, Bash, ...)
+- Development of internal tools (Golang/Bash)
 - Administation/Maintenance of Office network (Installation, configuration, internet access, backup)
 - In charge of Cyber security
 
@@ -65,14 +66,12 @@ Electronic France websites (internal PHP CMS)
 
 ### Technical
 
-__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
-__Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (working tool), php(5 / 7)
-(object oriented - working tool), Python (personal use), GoLang(Intermediary, working tool)<br>
-__Databases:__&nbsp;&nbsp;MySQL, Oracle, Postgre<br>
-__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (working tool), vagrant, ansible, ssh, jenkins, apache, nginx<br>
-__Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation and
-configuration (personal use)<br>
-__Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (working tool), Google Cloud(beginner)
+__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux, fcos), Windows (XP, Seven)<br>
+__Langages:__&nbsp;&nbsp;&nbsp;GoLang(Intermediary, working tool), Python (personal use)<br>
+__Databases:__&nbsp;&nbsp;MySQL, Postgre<br>
+__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terraform, Puppet, docker, Kubernetes, Git, Nginx, Ansible (personal use)<br>
+__Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation and configuration (personal use)<br>
+__Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (working tool)
 
 ------
 

@@ -4,7 +4,18 @@ Email: teintu.c@gmail.com
 
 ------
 ### Expérience
-__Juillet 2014__ <br>
+__Septembre 2016__ <br>
+__Asmodee Digital, Paris FR__
+: __*DevOps*__
+
+- Migration de l'infrastructure On Premise vers le cloud AWS
+  (infrastructure 'as a code'/kubernetes/terraform/puppet)
+- Mise en place du monitoring
+- Maintenance au jour le jour (backup, mise à jour, alert)
+- Management du réseau des locaux
+- Relais cyber-sécurité
+
+__Juillet 2014 - Juillet 2016__ <br>
 __Convertr Media Ltd, London UK__
 : __*Developpeur, DevOps*__
 
@@ -51,11 +62,11 @@ __Business & Decision, Paris 17e__
 ------
 ### Compétence
 <br>
-__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux), Windows (XP, Seven)<br>
-__Langages:__&nbsp;&nbsp;&nbsp;C, C++, HTML/CSS (outils de travail), php(5 / 7)
-(object oriented - outils de travail), Python (utilisation personnelle), GoLang(débutant, utilisation personnelle)<br>
-__Databases:__&nbsp;&nbsp;MySQL, Oracle, Postgre (outils de travail)<br>
-__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim, Make, Svn, Git (outils de travail), vagrant, ansible, ssh, jenkins, apache<br>
+__OS:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNU/Linux (Debian/Ubuntu, Archlinux, fcos), Windows (XP, Seven)<br>
+__Langages:__&nbsp;&nbsp;&nbsp;php(5 / 7)
+(utilisation professionelle), Python (utilisation personnelle), GoLang(utilisation personnelle et professionelle)<br>
+__Databases:__&nbsp;&nbsp;MySQL, Postgre (outils de travail)<br>
+__Tools:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terrform, Puppet, docker, Kubernetes, Git<br>
 __Techniques:__&nbsp;Maintenance, OS installation, TCP/IP installation et
 configuration (utilisation personnelle)<br>
 __Cloud:__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS (outils de travail), Google Cloud (Débutant)
