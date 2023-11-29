@@ -4,6 +4,24 @@ Email: teintu.c@gmail.com
 
 ------
 ### Expérience
+__Novembre 2022__ <br>
+__Cheerz, Paris FR__
+: __*DevOps*__
+
+- Maintenance/Optimisation de l'infrastructure en partenariat avec l'infogéreur (terraform/ansible)
+- Maintenance du compte cloud GCP (Kubernetes, Google Storage)
+- Migration des applications de gcp à dedibox
+- Evangéliser les pratiques DevOps
+- Soutenir les équipes de dev sur leur plateform de staging
+- Aide aux équipe SEO
+
+__Février 2022__ <br>
+__Saagie, Paris FR__
+: __*DevOps*__
+
+- Maintenance de l'infrastructure déjà en place chez les clients
+- Écriture d'un custom controller kubernetes
+
 __Septembre 2016__ <br>
 __Asmodee Digital, Paris FR__
 : __*DevOps*__
