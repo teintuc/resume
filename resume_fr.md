@@ -4,6 +4,17 @@
 
 ------
 ### Expérience
+__Avril 2024__ <br>
+__AirMedia/MyM, Paris FR__
+: __*DevOps*__
+
+- Migration de l'infrastrucure legacy vers EKS (Aws Kubernetes)
+- Migration des applications de ECS vers EKS
+- Rebuild du système de CI/CD (gitlab-ci)
+- Maintenance au jour le jour
+- Evangeliser les pratiques DevOps
+- Soutenir les équipes de dev (DevOps)
+
 __Novembre 2022__ <br>
 __Cheerz, Paris FR__
 : __*DevOps*__
