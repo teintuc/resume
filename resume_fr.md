@@ -1,5 +1,5 @@
 # Charles Teinturier
-Email: teintu.c@gmail.com
+
 ## Backend Developpeur / DevOps
 
 ------
