@@ -1,6 +1,6 @@
 # Charles Teinturier
 
-## Backend Developpeur / DevOps
+## DevOps
 
 ------
 ### Expérience
