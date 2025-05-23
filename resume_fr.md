@@ -8,7 +8,7 @@ __Avril 2024__ <br>
 __AirMedia/MyM, Paris FR__
 : __*DevOps*__
 
-- Migration de l'infrastrucure legacy vers EKS (Aws Kubernetes)
+- Migration de l'infrastrucure legacy vers EKS (Terraform/ArgoCD/Karpenter)
 - Migration des applications de ECS vers EKS
 - Rebuild du système de CI/CD (gitlab-ci)
 - Maintenance au jour le jour
